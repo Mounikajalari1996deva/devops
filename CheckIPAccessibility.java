@@ -5,7 +5,7 @@ import java.net.URL;
 
 public class CheckIPAccessibility {
     public static void main(String[] args) {
-        String ipAddress = "20.200.127.209";
+        String ipAddress = "4.227.161.120";
         int port = 8050;
         String url = "http://" + ipAddress + ":" + port + "/helloworld-0.0.1-SNAPSHOT/hello";
 
